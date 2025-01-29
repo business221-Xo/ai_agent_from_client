@@ -1,5 +1,4 @@
 # src/latest_ai_development/crew.py
-# src/latest_ai_development/crew.py
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai_tools import SerperDevTool

@@ -658,14 +658,14 @@ wheels = [
 
 [[package]]
 name = "deprecated"
-version = "1.2.17"
+version = "1.2.18"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "wrapt" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/2f/20/caa25c084ebad492360bf28ba5cb74f27b50fc6f3df965fd0add2b5b5993/deprecated-1.2.17.tar.gz", hash = "sha256:0114a10f0bbb750b90b2c2296c90cf7e9eaeb0abb5cf06c80de2c60138de0a82", size = 2928237 }
+sdist = { url = "https://files.pythonhosted.org/packages/98/97/06afe62762c9a8a86af0cfb7bfdab22a43ad17138b07af5b1a58442690a2/deprecated-1.2.18.tar.gz", hash = "sha256:422b6f6d859da6f2ef57857761bfb392480502a64c3028ca9bbe86085d72115d", size = 2928744 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/46/90/89be9a665bf63d3baaba6f34d9a514655abb42be2cc129f31c96df2cef51/Deprecated-1.2.17-py2.py3-none-any.whl", hash = "sha256:69cdc0a751671183f569495e2efb14baee4344b0236342eec29f1fde25d61818", size = 9140 },
+    { url = "https://files.pythonhosted.org/packages/6e/c6/ac0b6c1e2d138f1002bcf799d330bd6d85084fece321e662a14223794041/Deprecated-1.2.18-py2.py3-none-any.whl", hash = "sha256:bd5011788200372a32418f888e326a09ff80d0214bd961147cfed01b5c018eec", size = 9998 },
 ]
 
 [[package]]
@@ -2276,7 +2276,7 @@ wheels = [
 
 [[package]]
 name = "openai"
-version = "1.60.1"
+version = "1.60.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "anyio" },
@@ -2288,9 +2288,9 @@ dependencies = [
     { name = "tqdm" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/4c/c4/a220c957aa4097f25498770c6eff8f3abd35934a8859e7a78928a8a70846/openai-1.60.1.tar.gz", hash = "sha256:beb1541dfc38b002bd629ab68b0d6fe35b870c5f4311d9bc4404d85af3214d5e", size = 348070 }
+sdist = { url = "https://files.pythonhosted.org/packages/08/ae/8d9706b8ff2363287b4a8807de2dd29cdbdad5424e9d05d345df724320f5/openai-1.60.2.tar.gz", hash = "sha256:a8f843e10f2855713007f491d96afb2694b11b5e02cb97c7d01a0be60bc5bb51", size = 348185 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7a/ad/55b2d03feda5a0adc0a86048dcb7c9863fd24a3726815a04d5669e82e41e/openai-1.60.1-py3-none-any.whl", hash = "sha256:714181ec1c452353d456f143c22db892de7b373e3165063d02a2b798ed575ba1", size = 456110 },
+    { url = "https://files.pythonhosted.org/packages/e5/5a/d5474ca67a547dde9b87b5bc8a8f90eadf29f523d410f2ba23d63c9b82ec/openai-1.60.2-py3-none-any.whl", hash = "sha256:993bd11b96900b9098179c728026f016b4982ded7ee30dfcf4555eab1171fff9", size = 456107 },
 ]
 
 [[package]]
@@ -2585,7 +2585,7 @@ wheels = [
 
 [[package]]
 name = "patronus"
-version = "0.0.17"
+version = "0.0.18"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "httpx" },
@@ -2596,9 +2596,9 @@ dependencies = [
     { name = "tqdm" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/c5/a0/d5218ff6f2eab18c5a90266d21cdac673c85070e82e3f8aba538b3200f54/patronus-0.0.17.tar.gz", hash = "sha256:7298f770d4f6774b955806fb319c2c872fda3551bd7fa63d975bbeedc14b28de", size = 27377 }
+sdist = { url = "https://files.pythonhosted.org/packages/f6/2d/a1f173b6ca19c948126ca4a872acb772252afaeaa2fa5bfcb4164f3c2762/patronus-0.0.18.tar.gz", hash = "sha256:4dac5fe69330f4faf44a2e7d1814dbb0fb4368e4f57cc2e6c2498ee0835e91d2", size = 26766 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/0e/9e/717c4508d675549ff081a7fecf25af7d70f9d7ad87ea0d4825e02de3b801/patronus-0.0.17-py3-none-any.whl", hash = "sha256:1f322eeee838974515fdb7cbf8530ad25c6c59686abbcb28c1fdbf23d34eb10d", size = 31516 },
+    { url = "https://files.pythonhosted.org/packages/39/85/499a7c44c2e89443c85590c7845fbca8d3266ebd8752bb76d08533d303fa/patronus-0.0.18-py3-none-any.whl", hash = "sha256:bf8eaa9b07ceba5310b14e45df8198ffe1dd845e2ccb5b2aa50881be2079426f", size = 30936 },
 ]
 
 [[package]]
@@ -2796,14 +2796,14 @@ wheels = [
 
 [[package]]
 name = "proto-plus"
-version = "1.25.0"
+version = "1.26.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "protobuf" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/7e/05/74417b2061e1bf1b82776037cad97094228fa1c1b6e82d08a78d3fb6ddb6/proto_plus-1.25.0.tar.gz", hash = "sha256:fbb17f57f7bd05a68b7707e745e26528b0b3c34e378db91eef93912c54982d91", size = 56124 }
+sdist = { url = "https://files.pythonhosted.org/packages/26/79/a5c6cbb42268cfd3ddc652dc526889044a8798c688a03ff58e5e92b743c8/proto_plus-1.26.0.tar.gz", hash = "sha256:6e93d5f5ca267b54300880fff156b6a3386b3fa3f43b1da62e680fc0c586ef22", size = 56136 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/dd/25/0b7cc838ae3d76d46539020ec39fc92bfc9acc29367e58fe912702c2a79e/proto_plus-1.25.0-py3-none-any.whl", hash = "sha256:c91fc4a65074ade8e458e95ef8bac34d4008daa7cce4a12d6707066fca648961", size = 50126 },
+    { url = "https://files.pythonhosted.org/packages/42/c3/59308ccc07b34980f9d532f7afc718a9f32b40e52cde7a740df8d55632fb/proto_plus-1.26.0-py3-none-any.whl", hash = "sha256:bf2dfaa3da281fc3187d12d224c707cb57214fb2c22ba854eb0c105a3fb2d4d7", size = 50166 },
 ]
 
 [[package]]
